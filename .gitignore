@@ -1,0 +1,5 @@
+data
+vendor
+.env
+composer.lock
+docker-compose.yml
